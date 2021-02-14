@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+LINK : fatal error LNK1181: cannot open input file 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\UnitTest\include.obj'
